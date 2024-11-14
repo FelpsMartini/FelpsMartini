@@ -1,7 +1,9 @@
 ![Texto alternativo](https://github.com/FelpsMartini/FelpsMartini/blob/dcb26558bc9ce352bdbcd4be2f7ad8b05cff2511/Fundo.png)
 
 <h1 align="center">Oi 👋, Seja bem-vindo!</h1>
-<h3 align="center">Me chamo Felipe Martini e sou de Araraquara, interior de São Paulo. Concluí o ensino médio na ETEC, com o curso de informática para internet. Atualmente sou graduando em segurança da informação na FATEC, porém com total foco na área de dados.</h3>
+<h3 align="center">Sou o Felipe Martini, de Araraquara - SP.
+Conclui o ensino médio integrado ao curso técnico de Informática para Internet na ETEC.
+Atualmente, estou cursando Segurança da Informação na FATEC, com um foco apaixonado na área de dados, onde busco transformar informações em insights valiosos.</h3>
 
 - 🔭 Atualmente trabalhando com **análise de dados**
 
