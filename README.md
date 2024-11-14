@@ -5,9 +5,9 @@
 Conclui o ensino médio integrado ao curso técnico de Informática para Internet na ETEC.
 Atualmente, estou cursando Segurança da Informação na FATEC, com um foco apaixonado na área de dados, onde busco transformar informações em insights valiosos.</h3>
 
-- 🔭 Atualmente trabalhando com **análise de dados**
+- 🔭 Trabalhando e mergulhando no mundo de análise de dados**
 
-- 🌱 Atualmente estudando **ciência de dados**
+- 🌱 Aprendendo e explorando o fascinante campo da ciência de dados**
 
 - 📫 Meu email: **felipeh.martini@gmail.com**
 
